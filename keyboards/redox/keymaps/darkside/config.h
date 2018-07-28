@@ -37,8 +37,8 @@ used a cable to carry the data signal for the LED strip */
 
 /* Select hand configuration: you need to use as master 
 the hand that drives the LED strip */
-// #define MASTER_LEFT
-#define MASTER_RIGHT
+#define MASTER_LEFT
+// #define MASTER_RIGHT
 
 /* Put the total number of led used here */
 #undef RGBLED_NUM
